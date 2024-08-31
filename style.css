@@ -1,0 +1,41 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
+a {
+  color: orange;
+}
+a:hover {
+  color: black;
+}
+
+section {
+  padding: 80px 0;
+}
+
+.box {
+  width: 400px;
+  padding: 40px;
+  background-color: #9c6644;
+  border-radius: 20px;
+  text-align: center;
+}
+.box .textbox h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: 700;
+}
+.box .add input {
+  margin: 30px 0;
+  padding: 20px;
+  width: 300px;
+  border-radius: 20px;
+  font-size: 20px;
+}
+.box .btn {
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 20px;
+}/*# sourceMappingURL=style.css.map */
